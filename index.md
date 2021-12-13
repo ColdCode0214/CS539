@@ -1,10 +1,10 @@
-## CS539-COVID CT CLASSIFICATION
+# CS539-COVID CT CLASSIFICATION
 
 Team Member: Yan Zhang, Zeyu Hu, Jiani Wang, Chang Liu, Ziyang Xu
 
 Github Link: https://colab.research.google.com/drive/1UxfVkl6cqcn0gnZqFF3gj36UOqfXXQCz#scrollTo=nPBxMYePSnX0
 
-### Background & Motivation
+## Background & Motivation
 
 Our project is to find a set of models and parameters that would give precise predictions about a patient’s health situation: whether he/she is healthy, has been infected by COVID-19 or has been experiencing normal pneumonia.
 
@@ -29,18 +29,35 @@ Syntax highlighted code block
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Data
+## Data
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ColdCode0214/CS539/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 数据处理
 
-### Network
+## Network
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
-### Result
+### VGG16
 
-### Reference
+### VGG19
+
+### ResNet101
+
+### ResNet152
+
+### DenseNet161
+
+### DenseNet201
+
+
+
+## Result
+
+## Team
+
+
+## Reference
 https://www.kaggle.com/itkang/covidct-2a
 
 https://www.kaggle.com/hgunraj/covidxct
