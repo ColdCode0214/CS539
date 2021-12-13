@@ -1,16 +1,10 @@
 ## CS539-COVID CT CLASSIFICATION
 
-You can use the [editor on GitHub](https://github.com/ColdCode0214/CS539/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
 Team Member: Yan Zhang, Zeyu Hu, Jiani Wang, Chang Liu, Ziyang Xu
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Background & Motivation
 
-Our project is to find a set of models and parameters that would give precise predictions about a 
-patient’s health situation: whether he/she is healthy, has been infected by COVID-19 or has 
-been experiencing normal pneumonia.
+Our project is to find a set of models and parameters that would give precise predictions about a patient’s health situation: whether he/she is healthy, has been infected by COVID-19 or has been experiencing normal pneumonia.
 
 
 ```markdown
