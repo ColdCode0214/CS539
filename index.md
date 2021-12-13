@@ -2,6 +2,8 @@
 
 Team Member: Yan Zhang, Zeyu Hu, Jiani Wang, Chang Liu, Ziyang Xu
 
+Github Link: https://colab.research.google.com/drive/1UxfVkl6cqcn0gnZqFF3gj36UOqfXXQCz#scrollTo=nPBxMYePSnX0
+
 ### Background & Motivation
 
 Our project is to find a set of models and parameters that would give precise predictions about a patient’s health situation: whether he/she is healthy, has been infected by COVID-19 or has been experiencing normal pneumonia.
@@ -35,3 +37,12 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Network
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+### Result
+
+### Reference
+https://www.kaggle.com/itkang/covidct-2a
+
+https://www.kaggle.com/hgunraj/covidxct
+
+https://www.nature.com/articles/s41598-021-93832-2
