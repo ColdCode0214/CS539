@@ -79,6 +79,11 @@ A **residual neural network (ResNet)** is an artificial neural network (ANN) of 
 
 A **DenseNet** is a type of convolutional neural network that utilises dense connections between layers, through Dense Blocks, where we connect all layers (with matching feature-map sizes) directly with each other. To preserve the feed-forward nature, each layer obtains additional inputs from all preceding layers and passes on its own feature-maps to all subsequent layers.
 
+<p>
+  <img src="https://user-images.githubusercontent.com/92838953/146097211-fde3c669-0042-40fd-aacf-e2367c7198dd.png" alt="densenet" width="350"/>
+</p>
+
+
 ### DenseNet201
 
 
