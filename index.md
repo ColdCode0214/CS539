@@ -31,7 +31,9 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ## Data
 
-<img src="assets/CP_595_2957_0048.png" alt="drawing" width="200"/>
+<img src="assets/CP_595_2957_0048.png" alt="covid" width="500"/>
+<img src="assets/NCP_270_1687_0019.png" alt="pneumonia" width="500"/>
+<img src="assets/Normal_805_240_0109.png" alt="normal" width="500"/>
 
 ## Network
 
