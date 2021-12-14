@@ -6,7 +6,7 @@ Github Link: https://colab.research.google.com/drive/1UxfVkl6cqcn0gnZqFF3gj36UOq
 
 Our project is to find a set of models and parameters that would give precise predictions about a patient’s health situation: whether he/she is healthy, has been infected by COVID-19 or has been experiencing normal pneumonia.
 
-Our models could potentially help doctors diagnose COVID-19 patients.
+Our models could potentially help doctors diagnose COVID-19 patients given lung CT scans.
 
 ## Data
 
@@ -86,8 +86,11 @@ Jiani Wang
 
 Ziyang Xu
 
-## Reference
+## References
 https://www.kaggle.com/itkang/covidct-2a
+
 https://www.kaggle.com/hgunraj/covidxct
+
 https://www.nature.com/articles/s41598-021-93832-2
+
 https://neurohive.io/en/popular-networks/vgg16/
