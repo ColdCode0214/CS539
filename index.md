@@ -68,6 +68,12 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### VGG19
 
+**VGG19** is a convolutional neural network that is 19 layers deep.
+
+<p>
+  <img src="https://neurohive.io/wp-content/uploads/2018/11/Capture-564x570.jpg" alt="vgg19" width="350"/>
+</p>
+
 ## Deep Residual Neural Network (ResNet)
 
 ### ResNet101
