@@ -1,7 +1,5 @@
 # CS539-COVID CT CLASSIFICATION
 
-Team Member: Yan Zhang, Zeyu Hu, Jiani Wang, Chang Liu, Ziyang Xu
-
 Github Link: https://colab.research.google.com/drive/1UxfVkl6cqcn0gnZqFF3gj36UOqfXXQCz#scrollTo=nPBxMYePSnX0
 
 ## Background & Motivation
@@ -91,6 +89,15 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ## Team
 
+Yan Zhang
+
+Zeyu Hu
+
+Chang Liu
+
+Jiani Wang
+
+Ziyang Xu
 
 ## Reference
 https://www.kaggle.com/itkang/covidct-2a
