@@ -59,6 +59,8 @@ We used 6 different models to train the dataset.
 
 ### ResNet101
 
+A **residual neural network (ResNet)** is an artificial neural network (ANN) of a kind that builds on constructs known from pyramidal cells in the cerebral cortex. Residual neural networks do this by utilizing skip connections, or shortcuts to jump over some layers. Typical ResNet models are implemented with double- or triple- layer skips that contain nonlinearities (ReLU) and batch normalization in between.
+
 ### ResNet152
 
 ## Densely Connected Convolutional Networks (DenseNet)
