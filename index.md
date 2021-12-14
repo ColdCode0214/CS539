@@ -36,7 +36,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
   <em>COVID Lungs</em>
   <img src="assets/NCP_270_1687_0019.png" alt="pneumonia" width="250"/>
   <img src="assets/Normal_805_240_0109.png" alt="normal" width="250"/>
-<\p>
+</p>
 
 ## Network
 
