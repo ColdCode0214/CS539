@@ -6,27 +6,6 @@ Github Link: https://colab.research.google.com/drive/1UxfVkl6cqcn0gnZqFF3gj36UOq
 
 Our project is to find a set of models and parameters that would give precise predictions about a patient’s health situation: whether he/she is healthy, has been infected by COVID-19 or has been experiencing normal pneumonia.
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
 ## Data
 
 The orginial dataset contains 75000 images. We trained on dataset containing 15000 images.
@@ -54,7 +33,7 @@ There are 5000 images for each label. Here are sample images from the training s
 
 ## Network
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+We used 6 different models to train the dataset.
 
 ## Very Deep Convolutional Network (VGG)
 
