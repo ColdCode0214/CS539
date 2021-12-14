@@ -61,6 +61,10 @@ We used 6 different models to train the dataset.
 
 A **residual neural network (ResNet)** is an artificial neural network (ANN) of a kind that builds on constructs known from pyramidal cells in the cerebral cortex. Residual neural networks do this by utilizing skip connections, or shortcuts to jump over some layers. Typical ResNet models are implemented with double- or triple- layer skips that contain nonlinearities (ReLU) and batch normalization in between.
 
+<p>
+  <img src="https://neurohive.io/wp-content/uploads/2019/01/resnet-570x328.png" alt="resnet" width="350"/>
+</p>
+
 ### ResNet152
 
 ## Densely Connected Convolutional Networks (DenseNet)
@@ -96,3 +100,5 @@ https://www.kaggle.com/hgunraj/covidxct
 https://www.nature.com/articles/s41598-021-93832-2
 
 https://neurohive.io/en/popular-networks/vgg16/
+
+https://en.wikipedia.org/wiki/Residual_neural_network
