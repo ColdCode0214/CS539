@@ -58,6 +58,10 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ### VGG16
 
+<p>
+  <img src="https://neurohive.io/wp-content/uploads/2018/11/vgg16-1-e1542731207177.png" alt="vgg-16" width="350"/>
+</p>
+
 ### VGG19
 
 ## Deep Residual Neural Network (ResNet)
@@ -84,7 +88,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 ## Reference
 https://www.kaggle.com/itkang/covidct-2a
-
 https://www.kaggle.com/hgunraj/covidxct
-
 https://www.nature.com/articles/s41598-021-93832-2
+https://neurohive.io/en/popular-networks/vgg16/
