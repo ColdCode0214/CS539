@@ -33,13 +33,22 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 <p>
   <img src="assets/CP_595_2957_0048.png" alt="covid" width="250"/>
+</p>
+<p>
   <em>COVID Lungs</em>
 </p>
 <p>
   <img src="assets/NCP_270_1687_0019.png" alt="pneumonia" width="250"/>
+</p>
+<p>
   <em>Pneumonia Lungs</em>
+</p>
 <p>
   <img src="assets/Normal_805_240_0109.png" alt="normal" width="250"/>
+</p>
+<p>
+  <em>Normal Lungs</em>
+</p>
 
 ## Network
 
