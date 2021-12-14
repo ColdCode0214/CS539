@@ -32,7 +32,8 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 ## Data
 
 The orginial dataset contains 75000 images. We trained on dataset containing 15000 images.
-There are 5000 images for each label.
+
+There are 5000 images for each label. Here are sample images from the training set:
 
 <p>
   <img src="assets/CP_595_2957_0048.png" alt="covid" width="250"/>
