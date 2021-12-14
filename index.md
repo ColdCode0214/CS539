@@ -6,6 +6,8 @@ Github Link: https://colab.research.google.com/drive/1UxfVkl6cqcn0gnZqFF3gj36UOq
 
 Our project is to find a set of models and parameters that would give precise predictions about a patient’s health situation: whether he/she is healthy, has been infected by COVID-19 or has been experiencing normal pneumonia.
 
+Our models could potentially help doctors diagnose COVID-19 patients.
+
 ## Data
 
 The orginial dataset contains 75000 images. We trained on dataset containing 15000 images.
