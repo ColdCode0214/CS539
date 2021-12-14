@@ -31,8 +31,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ## Data
 
-/assets/CP_595_2957_0048.png
-COVID Lungs
+! [COVID Lungs] /assets/CP_595_2957_0048.png
 
 ## Network
 
