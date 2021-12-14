@@ -31,7 +31,7 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ## Data
 
-![COVID Lungs](/assets/CP_595_2957_0048.png) { width: 200px; }
+<img src="assets/CP_595_2957_0048.png" alt="drawing" width="200"/>
 
 ## Network
 
