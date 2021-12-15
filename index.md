@@ -86,7 +86,7 @@ A **DenseNet** is a type of convolutional neural network that utilises dense con
 
 ### DenseNet201
 
-DenseNet201 has a depth of 201 layers
+**DenseNet201** has a depth of 201 layers
 
 <p>
   <img src="https://user-images.githubusercontent.com/92838953/146097292-5540faeb-eba1-45cc-acc2-b73166e3c708.png" alt="densenet" width="350"/>
@@ -95,22 +95,29 @@ DenseNet201 has a depth of 201 layers
 
 ## Result
 
+Training Loss
 <p>
   <img src="assets/train_loss.png" alt="densenet" width="350"/>
 </p>
 
+
+Training Accuracy
 <p>
   <img src="assets/train_accu.png" alt="densenet" width="350"/>
 </p>
 
+Validation Loss
 <p>
   <img src="assets/evaluation_loss.png" alt="densenet" width="350"/>
 </p>
 
+
+Validation Accuracy
 <p>
   <img src="assets/evaluation_accu.png" alt="densenet" width="350"/>
 </p>
 
+Prediction Rate by Categories
 <p>
   <img src="assets/prediction.png" alt="densenet" width="350"/>
 </p>
