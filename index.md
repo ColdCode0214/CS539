@@ -125,7 +125,9 @@ Prediction Rate by Categories
 </p>
 
 Confusion matrix, without normalization
-<img src="https://user-images.githubusercontent.com/90018380/145900795-70b5ce75-148c-4b67-a0b8-32245ac99aae.png" width="500"/>
+<p>
+  <img src="https://user-images.githubusercontent.com/90018380/145900795-70b5ce75-148c-4b67-a0b8-32245ac99aae.png" width="500"/>
+</p>
 MACRO-averaged: prediction = 86.32%, recall = 81.07%, f1 = 83.61
 
 ## Team
