@@ -95,24 +95,24 @@ A **DenseNet** is a type of convolutional neural network that utilises dense con
 
 ## Result
 
-Training Loss
+Training Loss : 0.0007
 <p>
   <img src="assets/train_loss.png" alt="densenet" width="350"/>
 </p>
 
 
-Training Accuracy
+Training Accuracy : 99.9733%
 <p>
   <img src="assets/train_accu.png" alt="densenet" width="350"/>
 </p>
 
-Validation Loss
+Validation Loss : 0.6512
 <p>
   <img src="assets/val_loss.png" alt="densenet" width="350"/>
 </p>
 
 
-Validation Accuracy
+Validation Accuracy : 81.0667%
 <p>
   <img src="assets/val_accu.png" alt="densenet" width="350"/>
 </p>
@@ -123,7 +123,9 @@ Prediction Rate by Categories
 </p>
 
 Confusion matrix, without normalization
-![image](https://user-images.githubusercontent.com/90018380/145900795-70b5ce75-148c-4b67-a0b8-32245ac99aae.png)
+<p>
+  <img src="https://user-images.githubusercontent.com/90018380/145900795-70b5ce75-148c-4b67-a0b8-32245ac99aae.png" alt="densenet" width="350"/>
+</p>
 
 
 ## Team
