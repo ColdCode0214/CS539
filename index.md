@@ -143,7 +143,6 @@ Jiani Wang
 Ziyang Xu
 
 ## References
-https://www.kaggle.com/itkang/covidct-2a
 
 https://www.kaggle.com/hgunraj/covidxct
 
