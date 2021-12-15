@@ -12,7 +12,9 @@ Our models could potentially help doctors diagnose COVID-19 patients given lung 
 
 The orginial dataset contains 75000 images. We trained on our dataset containing 15000 images.
 
-There are 5000 images for each category. Here are three sample images from different categories:
+There are 5000 images for each category: COVID, Pneumonia, Normal.
+
+Here are three sample images from different categories:
 
 <p>
   <img src="assets/CP_595_2957_0048.png" alt="covid" width="250"/>
@@ -89,7 +91,7 @@ A **DenseNet** is a type of convolutional neural network that utilises dense con
 **DenseNet201** has a depth of 201 layers
 
 <p>
-  <img src="https://user-images.githubusercontent.com/92838953/146097292-5540faeb-eba1-45cc-acc2-b73166e3c708.png" alt="densenet" width="350"/>
+  <img src="https://user-images.githubusercontent.com/92838953/146097292-5540faeb-eba1-45cc-acc2-b73166e3c708.png" alt="densenet201" width="350"/>
 </p>
 
 
@@ -97,36 +99,36 @@ A **DenseNet** is a type of convolutional neural network that utilises dense con
 
 Training Loss : 0.0007
 <p>
-  <img src="assets/train_loss.png" alt="densenet" width="350"/>
+  <img src="assets/train_loss.png" width="350"/>
 </p>
 
 
 Training Accuracy : 99.9733%
 <p>
-  <img src="assets/train_accu.png" alt="densenet" width="350"/>
+  <img src="assets/train_accu.png" width="350"/>
 </p>
 
 Validation Loss : 0.6512
 <p>
-  <img src="assets/val_loss.png" alt="densenet" width="350"/>
+  <img src="assets/val_loss.png" width="350"/>
 </p>
 
 
 Validation Accuracy : 81.0667%
 <p>
-  <img src="assets/val_accu.png" alt="densenet" width="350"/>
+  <img src="assets/val_accu.png" width="350"/>
 </p>
 
 Prediction Rate by Categories
 <p>
-  <img src="assets/prediction.png" alt="densenet" width="350"/>
+  <img src="assets/prediction.png" width="350"/>
 </p>
 
 Confusion matrix, without normalization
 <p>
-  <img src="https://user-images.githubusercontent.com/90018380/145900795-70b5ce75-148c-4b67-a0b8-32245ac99aae.png" alt="densenet" width="350"/>
+  <img src="https://user-images.githubusercontent.com/90018380/145900795-70b5ce75-148c-4b67-a0b8-32245ac99aae.png" width="350"/>
 </p>
-
+MACRO-averaged: prediction= 86.32 %,recall= 81.07 %,f1= 83.61
 
 ## Team
 
