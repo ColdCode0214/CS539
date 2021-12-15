@@ -1,6 +1,6 @@
 # CS539-COVID CT CLASSIFICATION
 
-Github Link: https://colab.research.google.com/drive/1UxfVkl6cqcn0gnZqFF3gj36UOqfXXQCz#scrollTo=nPBxMYePSnX0
+Github Link: https://github.com/ColdCode0214/CS539
 
 ## Background & Motivation
 
