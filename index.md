@@ -127,7 +127,7 @@ MACRO-averaged: prediction = 86.32%, recall = 81.07%, f1 = 83.61
 
 Confusion matrix, without normalization
 <p>
-  <img src="assets/confusion_matrix" width="500"/>
+  <img src="assets/confusion_matrix.png" width="500"/>
 </p>
 
 ## Team
