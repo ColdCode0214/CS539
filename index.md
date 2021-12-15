@@ -144,8 +144,6 @@ Ziyang Xu
 
 ## References
 
-https://www.kaggle.com/hgunraj/covidxct
-
 https://www.nature.com/articles/s41598-021-93832-2
 
 https://neurohive.io/en/popular-networks/vgg16/
