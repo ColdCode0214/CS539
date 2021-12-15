@@ -95,6 +95,26 @@ DenseNet201 has a depth of 201 layers
 
 ## Result
 
+<p>
+  <img src="assets/train_loss.png" alt="densenet" width="350"/>
+</p>
+
+<p>
+  <img src="assets/train_accu.png" alt="densenet" width="350"/>
+</p>
+
+<p>
+  <img src="assets/evaluation_loss.png" alt="densenet" width="350"/>
+</p>
+
+<p>
+  <img src="assets/evaluation_accu.png" alt="densenet" width="350"/>
+</p>
+
+<p>
+  <img src="assets/prediction.png" alt="densenet" width="350"/>
+</p>
+
 ![image](https://user-images.githubusercontent.com/90018380/145900795-70b5ce75-148c-4b67-a0b8-32245ac99aae.png)
 
 
