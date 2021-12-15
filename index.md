@@ -108,13 +108,13 @@ Training Accuracy
 
 Validation Loss
 <p>
-  <img src="assets/evaluation_loss.png" alt="densenet" width="350"/>
+  <img src="assets/val_loss.png" alt="densenet" width="350"/>
 </p>
 
 
 Validation Accuracy
 <p>
-  <img src="assets/evaluation_accu.png" alt="densenet" width="350"/>
+  <img src="assets/val_accu.png" alt="densenet" width="350"/>
 </p>
 
 Prediction Rate by Categories
