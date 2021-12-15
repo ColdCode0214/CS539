@@ -116,7 +116,7 @@ Validation Loss : 0.6512
 
 Validation Accuracy : 81.0667%
 <p>
-  <img src="assets/val_accu.png" width="350"/>
+  <img src="assets/val_accu.png" width="500"/>
 </p>
 
 Prediction Rate by Categories
@@ -128,7 +128,7 @@ Confusion matrix, without normalization
 <p>
   <img src="https://user-images.githubusercontent.com/90018380/145900795-70b5ce75-148c-4b67-a0b8-32245ac99aae.png" width="500"/>
 </p>
-MACRO-averaged: prediction= 86.32 %,recall= 81.07 %,f1= 83.61
+MACRO-averaged: prediction = 86.32%, recall = 81.07%, f1 = 83.61
 
 ## Team
 
