@@ -6,13 +6,13 @@ Github Link: https://colab.research.google.com/drive/1UxfVkl6cqcn0gnZqFF3gj36UOq
 
 Our project is to find a set of models and parameters that would give precise predictions about a patient’s health situation: whether he/she is healthy, has been infected by COVID-19 or has been experiencing normal pneumonia.
 
-Our models could potentially help doctors diagnose COVID-19 patients given lung CT scans.
+Our models could potentially help doctors diagnose COVID-19 patients given lung CT scans. Our models are also useful for distinguishing COVID patients from normal pneumonia patients.
 
 ## Data
 
-The orginial dataset contains 75000 images. We trained on dataset containing 15000 images.
+The orginial dataset contains 75000 images. We trained on our dataset containing 15000 images.
 
-There are 5000 images for each label. Here are sample images from the training set:
+There are 5000 images for each category. Here are three sample images from different categories:
 
 <p>
   <img src="assets/CP_595_2957_0048.png" alt="covid" width="250"/>
@@ -35,7 +35,7 @@ There are 5000 images for each label. Here are sample images from the training s
 
 ## Network
 
-We used 6 different models to train the dataset.
+We used 6 different models to train the dataset. The three main networks are VGG, ResNet and DenseNet.
 
 ## Very Deep Convolutional Network (VGG)
 
@@ -122,6 +122,7 @@ Prediction Rate by Categories
   <img src="assets/prediction.png" alt="densenet" width="350"/>
 </p>
 
+Confusion matrix, without normalization
 ![image](https://user-images.githubusercontent.com/90018380/145900795-70b5ce75-148c-4b67-a0b8-32245ac99aae.png)
 
 
