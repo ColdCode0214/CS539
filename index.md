@@ -44,7 +44,7 @@ We used 6 different models to train the dataset. The three main networks are VGG
 ### VGG16
 
 <p>
-  <img src="https://neurohive.io/wp-content/uploads/2018/11/vgg16-1-e1542731207177.png" alt="vgg16" width="350"/>
+  <img src="https://neurohive.io/wp-content/uploads/2018/11/vgg16-1-e1542731207177.png" alt="vgg16" width="500"/>
 </p>
 
 **VGG16** is a convolutional neural network model proposed by K. Simonyan and A. Zisserman from the University of Oxford in the paper “Very Deep Convolutional Networks for Large-Scale Image Recognition”. It was one of the famous model submitted to ILSVRC-2014. It makes the improvement over AlexNet by replacing large kernel-sized filters (11 and 5 in the first and second convolutional layer, respectively) with multiple 3×3 kernel-sized filters one after another.
@@ -54,7 +54,7 @@ We used 6 different models to train the dataset. The three main networks are VGG
 **VGG19** is a convolutional neural network that is 19 layers deep.
 
 <p>
-  <img src="https://neurohive.io/wp-content/uploads/2018/11/Capture-564x570.jpg" alt="vgg19" width="350"/>
+  <img src="https://neurohive.io/wp-content/uploads/2018/11/Capture-564x570.jpg" alt="vgg19" width="500"/>
 </p>
 
 ## Deep Residual Neural Network (ResNet)
@@ -64,7 +64,7 @@ We used 6 different models to train the dataset. The three main networks are VGG
 A **residual neural network (ResNet)** is an artificial neural network (ANN) of a kind that builds on constructs known from pyramidal cells in the cerebral cortex. Residual neural networks do this by utilizing skip connections, or shortcuts to jump over some layers. Typical ResNet models are implemented with double- or triple- layer skips that contain nonlinearities (ReLU) and batch normalization in between.
 
 <p>
-  <img src="https://neurohive.io/wp-content/uploads/2019/01/resnet-570x328.png" alt="resnet" width="350"/>
+  <img src="https://neurohive.io/wp-content/uploads/2019/01/resnet-570x328.png" alt="resnet" width="500"/>
 </p>
 
 ### ResNet152
@@ -72,7 +72,7 @@ A **residual neural network (ResNet)** is an artificial neural network (ANN) of 
 **ResNet152** has a depth of 152 layers.
 
 <p>
-  <img src="https://miro.medium.com/max/1000/1*2ns4ota94je5gSVjrpFq3A.png" alt="resnet152" width="350"/>
+  <img src="https://miro.medium.com/max/1000/1*2ns4ota94je5gSVjrpFq3A.png" alt="resnet152" width="500"/>
 </p>
 
 ## Densely Connected Convolutional Networks (DenseNet)
@@ -82,7 +82,7 @@ A **residual neural network (ResNet)** is an artificial neural network (ANN) of 
 A **DenseNet** is a type of convolutional neural network that utilises dense connections between layers, through Dense Blocks, where we connect all layers (with matching feature-map sizes) directly with each other. To preserve the feed-forward nature, each layer obtains additional inputs from all preceding layers and passes on its own feature-maps to all subsequent layers.
 
 <p>
-  <img src="https://user-images.githubusercontent.com/92838953/146097211-fde3c669-0042-40fd-aacf-e2367c7198dd.png" alt="densenet" width="350"/>
+  <img src="https://user-images.githubusercontent.com/92838953/146097211-fde3c669-0042-40fd-aacf-e2367c7198dd.png" alt="densenet" width="500"/>
 </p>
 
 
@@ -91,7 +91,7 @@ A **DenseNet** is a type of convolutional neural network that utilises dense con
 **DenseNet201** has a depth of 201 layers
 
 <p>
-  <img src="https://user-images.githubusercontent.com/92838953/146097292-5540faeb-eba1-45cc-acc2-b73166e3c708.png" alt="densenet201" width="350"/>
+  <img src="https://user-images.githubusercontent.com/92838953/146097292-5540faeb-eba1-45cc-acc2-b73166e3c708.png" alt="densenet201" width="500"/>
 </p>
 
 
