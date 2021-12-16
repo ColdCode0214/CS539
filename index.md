@@ -97,26 +97,11 @@ A **DenseNet** is a type of convolutional neural network that utilises dense con
 
 ## Results
 
-Training Loss : 0.0018
-<p>
-  <img src="assets/train_loss.png" width="500"/>
-</p>
-
-
-Training Accuracy : 99.9733%
-<p>
-  <img src="assets/train_accu.png" width="500"/>
-</p>
-
-Validation Loss : 0.3141
-<p>
-  <img src="assets/val_loss.png" width="500"/>
-</p>
-
+The best epoch is epoch 3. The best model is DenseNet-201.
 
 Validation Accuracy : 89.40%
 <p>
-  <img src="assets/val_accu.png" width="500"/>
+  <img src="assets/result.png" width="500"/>
 </p>
 
 Prediction Rate by Categories
