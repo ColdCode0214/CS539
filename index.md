@@ -95,7 +95,7 @@ A **DenseNet** is a type of convolutional neural network that utilises dense con
 </p>
 
 
-## Result
+## Results
 
 Training Loss : 0.0018
 <p>
@@ -129,6 +129,13 @@ Confusion matrix, without normalization
 <p>
   <img src="assets/confusion_matrix.png" width="500"/>
 </p>
+
+## Conclusion
+
+- DenseNet-201 is the best model.
+- Using Picture Recognition Algorithm to examinate whether pneumonia exist is a doable approach.
+- The pre-trained model can assist doctor in real-time diagnosis.
+- New CT image can be collected and used for feature model improvement.
 
 ## Team
 
