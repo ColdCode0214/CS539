@@ -2,7 +2,7 @@
 
 ### Project website: https://coldcode0214.github.io/CS539/
 
-CS539.ipynb contains our main source code. It should be run in Google CoLab.
+[CS539.ipynb](CS539.ipynb) contains our main source code. It should be run in Google CoLab.
 
 Our code depends on packages such as numpy, pandas, pytorch and sklearn.
 
