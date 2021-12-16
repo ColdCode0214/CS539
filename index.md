@@ -72,7 +72,7 @@ A **residual neural network (ResNet)** is an artificial neural network (ANN) of 
 **ResNet152** has a depth of 152 layers.
 
 <p>
-  <img src="https://miro.medium.com/max/1000/1*2ns4ota94je5gSVjrpFq3A.png" alt="resnet152" width="500"/>
+  <img src="assets/resnet152.png" alt="resnet152" width="500"/>
 </p>
 
 ## Densely Connected Convolutional Networks (DenseNet)
@@ -101,7 +101,7 @@ The best epoch is epoch 3. The best model is DenseNet-201.
 
 Validation Accuracy : 89.40%
 <p>
-  <img src="assets/result.png" width="500"/>
+  <img src="assets/result.png" width="800"/>
 </p>
 
 Prediction Rate by Categories
