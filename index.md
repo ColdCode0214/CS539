@@ -72,7 +72,7 @@ A **residual neural network (ResNet)** is an artificial neural network (ANN) of 
 **ResNet152** has a depth of 152 layers.
 
 <p>
-  <img src="assets/resnet152.png" alt="resnet152" width="500"/>
+  <img src="assets/resnet152.png" alt="resnet152" width="250"/>
 </p>
 
 ## Densely Connected Convolutional Networks (DenseNet)
