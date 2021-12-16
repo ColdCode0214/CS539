@@ -99,7 +99,7 @@ A **DenseNet** is a type of convolutional neural network that utilises dense con
 
 The best epoch is epoch 3. The best model is DenseNet-201.
 
-Validation Accuracy : 89.40%
+MACRO-averaged: prediction = 91.96%, recall = 89.40%, f1 = 90.66
 <p>
   <img src="assets/result.png" width="800"/>
 </p>
@@ -108,7 +108,6 @@ Prediction Rate by Categories
 <p>
   <img src="assets/prediction.png" width="500"/>
 </p>
-MACRO-averaged: prediction = 91.96%, recall = 89.40%, f1 = 90.66
 
 Confusion matrix, without normalization
 <p>
